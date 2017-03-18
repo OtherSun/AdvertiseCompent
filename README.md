@@ -11,5 +11,7 @@
 
     github提交时要设置全局参数：
     1. git config --global user.email "你的邮箱"
+    
     2. git config --global user.name "你的名字"
+    
     3. VCS-->share project on github
